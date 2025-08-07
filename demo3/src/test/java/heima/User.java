@@ -13,4 +13,8 @@ public class User {
     private String password; //密码
     private String name; //姓名
     private Integer age; //年龄
+      private String name; //姓名
+    private Integer age; //年龄
+      private String name; //姓名
+    private Integer age; //年龄
 }
