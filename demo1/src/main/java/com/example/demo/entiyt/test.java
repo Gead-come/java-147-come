@@ -9,4 +9,5 @@ public class test {
     private String phone;
     private String email;
     private String qq;
+    private String wechat;
 }
