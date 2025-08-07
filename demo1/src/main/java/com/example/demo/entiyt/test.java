@@ -10,4 +10,5 @@ public class test {
     private String email;
     private String qq;
     private String wechat;
+    private String phone;
 }
