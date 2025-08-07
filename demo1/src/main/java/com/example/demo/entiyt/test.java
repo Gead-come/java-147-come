@@ -6,4 +6,5 @@ public class test {
 
     private String sex;
     private String address;
+    private String phone;
 }
